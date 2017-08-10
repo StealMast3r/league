@@ -29,8 +29,6 @@ function readRows() {
  * for invoking the readRows() function specified above.
  * The onOpen() function, when defined, is automatically invoked whenever the
  * spreadsheet is opened.
- * For more information on using the Spreadsheet API, see
- * https://developers.google.com/apps-script/service_spreadsheet
  */
 function onOpen() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet();
