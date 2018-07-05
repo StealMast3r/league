@@ -1,1 +1,1 @@
-Content Creation for Prophecy Cup Season 6
+# Content Creation for Prophecy Cup Season 6
