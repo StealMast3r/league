@@ -1,1 +1,1 @@
-Official Github of Prophecy Cup stats 
+Content Creation for Prophecy Cup Season 6
